@@ -1,0 +1,9 @@
+.verde{color: green;}
+.rojo{color: red;}
+.azul{color:blue}
+.amarillo{color:yellow;}
+.azul-hover:hover{
+    color: green;
+    cursor: pointer;
+}
+.azul-hover{color: aqua;}
