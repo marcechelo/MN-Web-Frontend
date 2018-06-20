@@ -47,3 +47,10 @@
         font-size: 15px;
     }
 }
+
+.transiciones-2d{
+    -ms-transform: translate(10px,20px);
+    -webkit-transform: translate(10px,20px);
+    transform: translate(10px,1px) rotate(-5deg) scale(0.5,1.5) skew(44deg)
+    rotate3d(3,3,3,6deg);
+}
