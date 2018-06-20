@@ -7,3 +7,40 @@
     cursor: pointer;
 }
 .azul-hover{color: aqua;}
+
+.bg-azul{
+    background-color: blue;
+}
+.bg-amarillo{
+    background-color: yellow;
+}
+.bg-rojo{
+    background-color: red;
+}
+.bg-cafe{
+    background-color: brown;
+}
+.bg-verde{
+    background-color: green;
+}
+.bg-red{
+    background-color: red;
+}
+.bg-rosado{
+    background-color: pink;
+}
+.bg-olive{
+    background-color: olive;
+}
+.bg-maron{
+    background-color: maroon;
+}
+.bg-chocolate{
+    background-color: chocolate;
+}
+.bg-teal{
+    background-color: teal;
+}
+.bg-wheat{
+    background-color: wheat;
+}

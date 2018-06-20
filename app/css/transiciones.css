@@ -6,7 +6,8 @@
     animation-duration: 8s;
     animation-delay: 2s;
     animation-iteration-count: infinite;
-    animation-direction: reverse;
+    animation-direction: alternate;
+    animation-timing-function: ease-out;
     /* -webkit-transition: color 1s;
     transition: color 1s; */
 }
