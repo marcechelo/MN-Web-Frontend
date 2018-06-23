@@ -25,3 +25,24 @@ h1,h2{
 h1.bg-green, h2.amarillo{
     background-color: red;
 }
+
+    html
+    {
+        width: 100%;
+        height: 100%;
+    }
+
+    body
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    html {
+        background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh_5r3HX2yZEHyAy94YC0Hi9EI4yREVBKF54SRdPdgcCGBdjnwcg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
